@@ -1,8 +1,8 @@
-👋 Hi, I’m chooch <br>
+👋 Hi, I’m chooch. <br>
 <br>
-👀 I’m interested in many things <br>
+👀 I’m interested in many things. <br>
 <br>
-🌱 I’m currently learning about neuroscience
+🌱 I’m currently learning about neuroscience.
 
 <!---
 jchooch/jchooch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
