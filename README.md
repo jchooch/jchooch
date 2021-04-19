@@ -1,5 +1,7 @@
 👋 Hi, I’m chooch <br>
+<br>
 👀 I’m interested in many things <br>
+<br>
 🌱 I’m currently learning about neuroscience
 
 <!---
