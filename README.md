@@ -1,5 +1,5 @@
-👋 Hi, I’m chooch
-👀 I’m interested in many things
+👋 Hi, I’m chooch <br>
+👀 I’m interested in many things <br>
 🌱 I’m currently learning about neuroscience
 
 <!---
