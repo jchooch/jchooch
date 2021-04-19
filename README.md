@@ -1,4 +1,4 @@
-👋 Hi, I’m chooch. <br>
+👋 Hi, I’m Chooch. <br>
 <br>
 👀 I’m interested in many things. <br>
 <br>
