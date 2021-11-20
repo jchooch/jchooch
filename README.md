@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 hi, i’m chooch. <br>
 <br>
-👀 i’m interested in many things <br>
+i’m interested in many things <br>
 <br>
-🌱 i’m currently learning about neuroscience
+🌱 i’m currently learning about circuits neuroscience, computational philosophy of science, and formal epistemology
 --->
